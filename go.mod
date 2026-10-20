@@ -8,7 +8,7 @@ require (
 	github.com/a-h/templ v0.3.819
 	github.com/hashicorp/go-retryablehttp v0.7.7
 	github.com/hashicorp/go-version v1.7.0
-	github.com/klauspost/compress v1.17.11
+	github.com/klauspost/compress v1.18.7
 )
 
 require github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
